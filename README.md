@@ -4,6 +4,8 @@
 # newpack
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/hookoop/newpack/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/hookoop/newpack/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of newpack is to make splitting a string easier.
